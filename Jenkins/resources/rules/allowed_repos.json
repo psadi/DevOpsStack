@@ -1,0 +1,8 @@
+{
+    "__comment__": [
+        "All Develop branches are blocked from deployments be default",
+        "The repositories mentioned in 'repositories' will override this behaviour"
+    ],
+
+    "repositories": ["tap-olympus-apis"]
+}
